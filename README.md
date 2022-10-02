@@ -1,4 +1,4 @@
-# Crowdfunding-Contract
+# Crowdfunding Contract
 A smart contract for crowdfunding.
 
 The owner (deployer) can create and end the campaign at a specific time. The owner also sets a goal for the amount that will be reached.
